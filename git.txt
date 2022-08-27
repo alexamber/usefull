@@ -1,0 +1,2 @@
+# Git several keys
+git config core.sshCommand "ssh -i ~/.ssh/<your_key> -F /dev/null"
